@@ -1,7 +1,4 @@
-# Kiro.dev Specs vs SpecKit: 실무 소프트웨어 딜리버리 관점 비교
-
-> 원문: DXBMARK LLC, *"Kiro Specs vs SpecKit"* (LinkedIn Pulse, 2026.05.19)
-> 이 자료는 원문 내용을 교육생 학습용으로 재구성한 강의 노트입니다.
+# Kiro.dev Specs vs SpecKit
 
 ---
 
