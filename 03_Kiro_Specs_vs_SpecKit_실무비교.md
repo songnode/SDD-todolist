@@ -155,9 +155,6 @@ Kiro의 단순한 "요구사항→작업" 흐름보다 훨씬 깊은 프로세�
 
 ---
 
-
----
-
-## 11. 참고 자료
+## 9. 참고 자료
 
 - DXBMARK LLC, "Kiro Specs vs SpecKit", LinkedIn Pulse (2026.05.19)
