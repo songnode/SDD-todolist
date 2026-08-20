@@ -69,6 +69,7 @@ my-project/
 ├── .github/                        # GitHub 관련 설정
 │   ├── agents/                     # AI 에이전트 설정
 │   └── prompts/                    # AI 프롬프트 템플릿 (자동 관리)
+│   └── copilot-instructions.md     # LLM 과의 관리
 │
 ├── .specify/                       # Spec Kit 내부 설정
 │   ├── memory/
