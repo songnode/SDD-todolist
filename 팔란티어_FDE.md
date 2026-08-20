@@ -11,7 +11,8 @@
 
 이 강의에서는 그 답을 팔란티어의 20년 역사에서 찾아보고, 우리 조직/프로젝트에 적용할 수 있는 시사점을 정리합니다.
 
-<img width="1280" height="853" alt="fde" src="https://github.com/user-attachments/assets/ee329b2c-1ce0-4669-be41-d9c6bc723106" />
+<img width="1280" height="853" alt="FDE" src="https://github.com/user-attachments/assets/305357af-2823-410a-8c60-c44df6ff9e03" />
+
 
 
 ---
